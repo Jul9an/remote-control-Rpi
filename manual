@@ -1,0 +1,15 @@
+#Go to the console and update the Raspberry Pi
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+#After this your Rpi has the newest version installed and you can download the remote programm
+
+sudo apt-get install xrdp
+
+#Then you have to restart your PC. Either restart it or type:
+
+sudo reboot
+
+#Now look for "remote connection" in your Windows search bar. Then you have to paste the IP and log into your Rpi.
