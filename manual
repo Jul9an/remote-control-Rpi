@@ -8,7 +8,7 @@ sudo apt-get upgrade
 
 sudo apt-get install xrdp
 
-#Then you have to restart your PC. Either restart it or type:
+#Then you have to restart your Rpi
 
 sudo reboot
 
